@@ -10,3 +10,7 @@ img {
     border: 2px solid black;
     border-radius: 50px;
 }
+.card{
+    border: 2px black solid;
+    border-radius: 5px;
+}
