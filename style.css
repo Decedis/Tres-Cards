@@ -1,0 +1,12 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+img {
+    height: 25px;
+    widtH: 25px;
+
+    border: 2px solid black;
+    border-radius: 50px;
+}
