@@ -25,10 +25,7 @@
     height: 20px;
     widtH: 20px;
 
-    border: 1px solid black;
-    border-radius: 50px;
-
-    padding: 8px;
+    border-radius: 60px;
 }
 .card-section-link{
     display: flex;
