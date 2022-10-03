@@ -30,7 +30,10 @@
 
     padding: 8px;
 }
-.card-section-link{}
+.card-section-link{
+    display: flex;
+    justify-content: space-between;
+}
 .ext-link{
     height: 15px;
     width: 15px;
