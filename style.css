@@ -15,7 +15,7 @@
     height: 80px;
     width: 250px;
 
-    box-shadow: 10px 5px 5px grey;
+    box-shadow: 2px 2px 10px grey;
 }
 .card-primary-section{
     display: flex;
