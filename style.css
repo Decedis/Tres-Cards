@@ -3,6 +3,7 @@
     flex-direction: row;
     gap: 10px;
 }
+.card:hover{background-color: rgba(234, 226, 226, 0.999);}
 .card{
     display: flex;
     flex-direction: column;
